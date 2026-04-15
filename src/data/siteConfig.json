@@ -1,0 +1,53 @@
+{
+  "name": "MINHAROTINA",
+  "slug": "minharotina.com.br",
+  "description": "O aplicativo Minha Rotina Especial é um software desenvolvido para auxiliar crianças com deficiência, síndromes, autismo ou déficits diversos. Um programa cuidadosamente planejado para estimular o desenvolvimento, integrando informações e deixando a rotina mais clara e organizada para crianças com diferentes desafios e que precisam de acompanhamento nas atividades do dia a dia. Criado a partir da metodologia de trabalho do Terapeuta Ocupacional Régis Nepomuceno, o aplicativo propõe a integração de informações, com a consciência de que as atividades de vida diária oferecem uma série de possibilidades de aprendizado e desenvolvimento. Quanto mais a criança conhece sua rotina, mais ela ganha confiança e autonomia e melhor os terapeutas conseguem acompanhar sua evolução e propor novos desafios a partir da informação compartilhada sobre seu dia a dia em ambientes fora da clínica.",
+  "url": "https://minharotina.com.br",
+  "niche": "Saúde e Bem-estar",
+  "keywords": "O aplicativo Minha Rotina Especial e um software desenvolvido para auxiliar criancas",
+  "email": "contato@minharotina.com.br",
+  "palette": "violet",
+  "colors": {
+    "primary": "#7c3aed",
+    "accent": "#5b21b6",
+    "dark": "#2e1065"
+  },
+  "headerContrast": "light",
+  "font": "lora",
+  "fontFamily": "'Lora', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+  "components": {
+    "header": "Header-H",
+    "hero": "Hero-J",
+    "features": "Features-A",
+    "about": "About-D",
+    "posts": "Posts-C",
+    "footer": "Footer-J",
+    "sobre": "Sobre-B",
+    "contato": "Contato-A"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

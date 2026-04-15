@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o MINHAROTINA"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "O aplicativo Minha Rotina Especial foi desenvolvido por profissionais da área de Terapia Ocupacional para oferecer apoio a crianças com deficiência, síndromes e autismo, promovendo uma experiência de aprendizado segura e estruturada."
+  },
+  "content": "Nossa missão é promover a autonomia e a confiança de crianças com desafios especiais através de uma rotina clara e organizada. Acreditamos que cada passo dado em direção à compreensão de suas atividades diárias é uma vitória para o desenvolvimento pessoal e social delas.",
+  "mission": "Integrar informações e atividades que ajudem no crescimento e na confiança das crianças em sua jornada.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

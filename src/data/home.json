@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "MINHAROTINA — Minha Rotina Especial",
+    "description": "Facilitando a vida de crianças com desafios distintos"
+  },
+  "hero": {
+    "title": "Minha Rotina Especial",
+    "subtitle": "Facilitando a vida de crianças com desafios distintos",
+    "btnText": "Saiba mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Recursos do Aplicativo",
+    "items": [
+      {
+        "icon": "📅",
+        "title": "Organização da Rotina",
+        "desc": "Crie rotinas diárias personalizadas que ajudam crianças a entenderem seus compromissos."
+      },
+      {
+        "icon": "📈",
+        "title": "Acompanhamento de Evolução",
+        "desc": "Relatórios que permitem aos terapeutas e familiares acompanhar o desenvolvimento e o progresso das crianças."
+      },
+      {
+        "icon": "🌈",
+        "title": "Atividades Interativas",
+        "desc": "Inclui jogos e tarefas que estimulam o aprendizado de forma divertida e envolvente."
+      },
+      {
+        "icon": "📱",
+        "title": "Interface Intuitiva",
+        "desc": "Desenvolvido pensando na acessibilidade e facilidade de uso para crianças e cuidadores."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "desc": "O aplicativo Minha Rotina Especial foi desenvolvido por profissionais da área de Terapia Ocupacional para oferecer apoio a crianças com deficiência, síndromes e autismo, promovendo uma experiência de aprendizado segura e estruturada.",
+    "stats": [
+      {
+        "value": "100%",
+        "label": "Acessibilidade"
+      },
+      {
+        "value": "5",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "2000+",
+        "label": "Usuários Satisfeitos"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
